@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jun 17 10:56:28 2018
+Quartus II 32-bit Version : 12.1 Build 177 11/07/2012 SJ Web Edition
+Revision Name : DE1_D5M
+Top-level Entity Name : DE1_D5M
+Family : Cyclone II
+Device : EP2C20F484C7
+Timing Models : Final
+Total logic elements : 8,371 / 18,752 ( 45 % )
+    Total combinational functions : 6,967 / 18,752 ( 37 % )
+    Dedicated logic registers : 4,335 / 18,752 ( 23 % )
+Total registers : 4349
+Total pins : 302 / 315 ( 96 % )
+Total virtual pins : 0
+Total memory bits : 83,752 / 239,616 ( 35 % )
+Embedded Multiplier 9-bit elements : 0 / 52 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
